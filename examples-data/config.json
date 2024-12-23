@@ -1,0 +1,9 @@
+{
+    "seed": 42,
+    "structure": {
+        "Mathematics": 2,
+        "Science": 2,
+        "History": 2
+    },
+    "number": 3
+}

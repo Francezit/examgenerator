@@ -1,0 +1,1 @@
+python3 generator.py -q examples-data/questions.json -o output -c examples-data/config.json -t examples-data/template.tex

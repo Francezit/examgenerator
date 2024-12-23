@@ -1,0 +1,41 @@
+{
+    "Mathematics": [
+        {
+            "question": "What is the sum of 5 and 7?",
+            "options": ["10", "11", "12", "13"],
+            "answer": 1
+        },
+        {
+            "question": "What is the square root of 16?",
+            "options": ["2", "3", "4", "5"],
+            "answer": 2
+        }
+    ],
+    "Science": [
+        {
+            "question": "What is H2O commonly known as?",
+            "options": ["Oxygen", "Water", "Hydrogen", "Carbon Dioxide"],
+            "answer": 1
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Venus"],
+            "answer": 1
+        }
+    ],
+    "History": [
+        {
+            "question": "Who was the first President of the United States?",
+            "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+            "answer": 0
+        },
+        {
+            "question": "What year did World War II end?",
+            "subquestions": [
+                "Provide the year.",
+                "Which countries were involved?"
+            ],
+            "answer": 1945
+        }
+    ]
+}
